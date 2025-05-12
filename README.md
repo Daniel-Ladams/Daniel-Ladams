@@ -1,4 +1,4 @@
-Daniel Adams - Desnvolvedor FullStack
+Daniel Adams - Desnvolvedor Full Stack
 
  <div>
    <a href="https://github.com/Daniel-Ladams">
